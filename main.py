@@ -6,7 +6,7 @@ import functions
 
 
 def main():
-    functions.find_music()
+    functions.find_music() #now works!
 
 
 if __name__ == '__main__': main()
