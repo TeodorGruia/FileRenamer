@@ -1,4 +1,11 @@
-"""Library of functions for the File renamer"""
+"""
+Library/Module name: Functions
+
+Author: Sam Goldberg
+"""
+
+
+
 import os
     
 def find_music():

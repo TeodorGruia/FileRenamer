@@ -1,6 +1,10 @@
 """
-Rename music files without the crap that Youtube downloaders add
+Program name: FileRenamer
+Date of first writing: 06/29/2023
+Author: Sam Goldberg
 """
+
+
 import os
 import functions 
 
